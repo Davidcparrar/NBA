@@ -1,8 +1,8 @@
-[![Python application test with Github Actions](https://github.com/Davidcparrar/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/Davidcparrar/scaffold/actions/workflows/main.yml)
+[![Python application test with Github Actions](https://github.com/Davidcparrar/NBA/actions/workflows/main.yml/badge.svg)](https://github.com/Davidcparrar/NBA/actions/workflows/main.yml)
 
-# scaffold
-project scaffold for python
+# NBA pet project
 
-### Source
+The goal with this project is to apply the concepts of cloud computing to a simple Fantasy Draft predictor, i.e., given a list of available players what player should be drafted to "win" fantasy NBA.
 
-[Duke specialization](https://github.com/noahgift/github-actions-pytest)
+
+
