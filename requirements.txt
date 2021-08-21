@@ -4,3 +4,9 @@ click
 black
 pytest-cov
 nba_api
+numpy
+pandas
+matplotlib
+jupyter
+jupyterlab
+jedi==0.17.2
